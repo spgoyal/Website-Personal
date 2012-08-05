@@ -1,0 +1,46 @@
+*{
+	font-family:georgia, arial, helvetica, sans-serif;
+	bgcolor=#ffffff;
+}
+	
+#main_leading_stuff{
+	font-size:16px;
+	color:blue;
+}
+	
+#main_leading_stuff_center{
+	font-size:16px;
+	color:blue;
+	align:center;
+}
+
+#general_stuff{
+	font-size:12px;
+	color:black;
+	align:justify;
+}
+
+#general_stuff_center{
+	font-size:12px;
+	color:black;
+	align:center;
+}
+
+#general_stuff_center_bold{
+	font-size:12px;
+	font-weight:bold;
+	color:black;
+	align:center;
+}
+
+#posting_dates{
+	color:blue;
+}
+
+
+#photos_batch{
+	border:0;
+	height:180px;
+	width:140px;
+	align:center;
+}
